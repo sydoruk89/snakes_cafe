@@ -1,1 +1,1 @@
-https://github.com/sydoruk89/snakes_cafe/tree/master/snakes_cafe_lab
+https://github.com/sydoruk89/snakes_cafe/pull/1
